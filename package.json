@@ -48,14 +48,14 @@
     "debug": "2.x.x"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
+    "mocha": "2.x.x",
     "chai": "1.x.x",
     "chai-connect-middleware": "0.3.x",
     "chai-locomotive-helpers": "0.1.x",
-    "promise": "4.x.x"
+    "promise": "6.x.x"
   },
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 0.12.0"
   },
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js test/**/*.test.js test/helpers/**/*.test.js"
