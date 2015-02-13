@@ -1,6 +1,6 @@
 {
   "name": "locomotive",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Powerful MVC web framework for Node.js.",
   "keywords": [
     "express",
@@ -48,11 +48,11 @@
     "debug": "2.x.x"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
+    "mocha": "2.x.x",
     "chai": "1.x.x",
     "chai-connect-middleware": "0.3.x",
     "chai-locomotive-helpers": "0.1.x",
-    "promise": "4.x.x"
+    "promise": "6.x.x"
   },
   "engines": {
     "node": ">= 0.10.0"
