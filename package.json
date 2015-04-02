@@ -37,7 +37,7 @@
     "commander": "2.x.x",
     "co-prompt": "1.x.x",
     "express": "4.x.x",
-    "actionrouter": "0.1.x",
+    "actionrouter": "git+ssh://git@github.com/buildcom/node-actionrouter.git#IDS-13960",
     "bootable": "0.2.x",
     "bootable-environment": "0.2.x",
     "parent-require": "1.x.x",
