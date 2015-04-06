@@ -1,6 +1,6 @@
 {
   "name": "locomotive",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Powerful MVC web framework for Node.js.",
   "keywords": [
     "express",
@@ -37,7 +37,7 @@
     "commander": "2.x.x",
     "co-prompt": "1.x.x",
     "express": "4.x.x",
-    "actionrouter": "git+ssh://git@github.com/buildcom/node-actionrouter.git#IDS-13960",
+    "actionrouter": "git+ssh://git@github.com/buildcom/node-actionrouter.git#0.2.0",
     "bootable": "0.2.x",
     "bootable-environment": "0.2.x",
     "parent-require": "1.x.x",
