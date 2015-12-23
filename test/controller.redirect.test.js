@@ -73,7 +73,7 @@ describe('Controller#redirect', function() {
     var app = new MockApplication();
     var controller = new Controller();
     controller.redirectWithUrlAndStatusCode = function() {
-      this.redirect(303, '/home');
+      this.redirect( '/home',303);
     };
     
     var req, res;
